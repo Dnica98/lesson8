@@ -1,0 +1,36 @@
+.square{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 0;
+    text-align: right;
+}
+.square1{
+    background-color: aqua;
+    left: 0;
+}
+.square2{
+    background-color: red;
+    left: 0;
+    z-index: -1;
+}
+.square3{
+    background-color: yellow;
+    left: 0;
+    z-index: -2;
+}
+.square4{
+    background-color: brown;
+    left: 0;
+    z-index: -3;
+}
+.square5{
+    background-color: blueviolet;
+    left: 0;
+    z-index: -4;
+}
+
+.container{
+    height: 100vh;
+    
+}
